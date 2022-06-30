@@ -19,3 +19,10 @@
 > I don't really know what a blockquote is
 
 `System.out.println("Mal");` is my inline code 
+
+```
+# code block
+Mal
+Wan
+Mad
+```
